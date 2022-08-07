@@ -1,0 +1,8 @@
+{
+  "name": "react-native-zap-template",
+  "version": "0.5.0",
+  "description": "Zap template: react native modular template",
+  "repository": "git@github.com:gladiuscode/react-native-zap-template.git",
+  "author": "gladius <gladiusservices@protonmail.com>",
+  "license": "MIT"
+}
